@@ -1,8 +1,10 @@
 # Publications
 
 <!--2023-->
-### Ambiguity Function Analysis of the Frequency-Hopped Code Selection Scheme 
+### Ambiguity Function Analysis of the Frequency-Hopped Code Selection Scheme
 _Link:_ https://ieeexplore.ieee.org/abstract/document/10371075
+
+_-Nominated for Best Paper Award-_
 
 Presented a simplified expression for the average ambiguity function (AF) for the Freqency-Hopped Code Selection (FHCS) scheme that avoids the need to enumerate the entire symbol dictionary.
 - Implemented a new performance metric that efficiently cross-compared communication symbol data and enabled easier calculation of the average zero-Doppler AF profile across the FHCS codebook.
@@ -74,6 +76,8 @@ Proposed and analysed the application of the fast iterative interpolated beamfor
 
 ### Fast Direction-of-Arrival Estimation in Coprime Arrays
 _Link:_ https://ieeexplore.ieee.org/abstract/document/8557304
+
+_-Won Best Student Paper Award-_
 
 Investigated the application of the Fast Iterative Interpolated Beamformer (FIIB) algorithm to antenna sensing arrays utilising a coprime configuration.
 - Designed simulations synthesising a coprime array configuration with the FIIB algorithm.
