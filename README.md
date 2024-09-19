@@ -2,24 +2,32 @@
 
 <!--2023-->
 ### Ambiguity Function Analysis of the Frequency-Hopped Code Selection Scheme 
-https://ieeexplore.ieee.org/abstract/document/10371075
+_Link:_ https://ieeexplore.ieee.org/abstract/document/10371075
 
-Insert abstract.
+Presented a simplified expression for the average ambiguity function (AF) for the Freqency-Hopped Code Selection (FHCS) scheme that avoids the need to enumerate the entire symbol dictionary.
+- Implemented a new performance metric that efficiently cross-compared communication symbol data and enabled easier calculation of the average zero-Doppler AF profile across the FHCS codebook.
+- Prototyped virtual multiple-input multiple-output (MIMO) dual-function radar-communications (DFRC) systems
+- Designed simmulations synthesising realisations of Dual-Function Radar-Communications (DFRC) waveforms and capturing their zero-Doppler AF profiles.
+- Interfaced with the UNSW high performance computing cluster, KATANA, to empirically generate and wrangle massive data sets.
+- Showed that our expression for the simplified average AF successfully captures the zero-Doppler AF profile and gives much needed insight to how the FHCS codebook impacts the radar performance.
 
 ---
 
 ### Improved Implementation of the Frequency Hopped Code Selection DFRC Scheme
-https://ieeexplore.ieee.org/abstract/document/10149725
+_Link:_ https://ieeexplore.ieee.org/abstract/document/10149725
 
-Insert abstract.
+Proposed an enhanced version of the Frequency-Hopped Code Selection (FHCS) scheme that reduces the possibility of degenerative waveforms and ameliorates their adverse downstream effects on the resulting ambiguity function (AF), thus improving the radar performance.
+- Implemented a heuristic decision-making algorithm to enable fast adjustments to the transmitted pulse.
+- Generated and wrangled massive data sets using the UNSW high performance computing cluster, KATANA.
+- Showed that the proposed method yielded an improvement to the AF performance and invited further development for those systems with scaled system parameters.
 
 ---
 
 <!--2022-->
 ### Joint Radar and Communications for Frequency-Hopped MIMO Systems
-https://ieeexplore.ieee.org/abstract/document/9681340
+_Link:_ https://ieeexplore.ieee.org/abstract/document/9681340
 
-Constructed a generalised framework for Multiple-Input Multiple-Output (MIMO) for Dual-Function Radar Communications (DFRC) systems employing Frequency-Hopped (FH) radar waveforms.
+Constructed a generalised framework for multiple-input multiple-output (MIMO) for dual-function radar communications (DFRC) systems employing Frequency-Hopped (FH) radar waveforms.
 - Conducted an extensive literature review assessing pre-existing information embedding schemes.
 - Constructed a unified framework for pre-existing FH-MIMO DFRC systems by formulating a generalised signal model enabling a variety of signalling strategies.
 - Applied the unified framework to identify alternative signalling strategies, and propose hybrid information embedding schemes.
@@ -31,7 +39,7 @@ Constructed a generalised framework for Multiple-Input Multiple-Output (MIMO) fo
 
 <!--2020-->
 ### A Study on the Performance of Symbol Dictionary Selection for the Frequency Hopped DFRC Scheme
-https://ieeexplore.ieee.org/abstract/document/9266476
+_Link:_ https://ieeexplore.ieee.org/abstract/document/9266476
 
 Studied the impact of codebook selection on the ensuing radar performance using the Frequency-Hopped Code Selection (FHCS) scheme.
 - Designed simulations synthesising FH-MIMO radar waveforms with the FHCS codebook.
@@ -43,7 +51,7 @@ Studied the impact of codebook selection on the ensuing radar performance using 
 <!--2018-->
 
 ### Dual-Function MIMO Radar-Communications Via Frequency-Hopping Code Selection
-https://ieeexplore.ieee.org/abstract/document/8645212
+_Link:_ https://ieeexplore.ieee.org/abstract/document/8645212
 
 Proposed a new signalling scheme (FHCS) for DFRC systems enabling FH-MIMO orthogonal radar waveforms to carry communication symbols.
 - Conducted a literature review assessing pre-existing information embedding schemes.
@@ -54,7 +62,7 @@ Proposed a new signalling scheme (FHCS) for DFRC systems enabling FH-MIMO orthog
 ---
 
 ### Coprime beamforming: fast estimation of more sources than sensors
-https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-rsn.2018.5647
+_Link:_ https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-rsn.2018.5647
 
 Proposed and analysed the application of the fast iterative interpolated beamformer (FIIB) to the coprime DOA estimation problem and its comparison with conventional subspace-based techniques.
 - Developed extensive simulations comparing the performance of the FIIB algorithm with those of root-MUSIC algorithm.
@@ -65,7 +73,7 @@ Proposed and analysed the application of the fast iterative interpolated beamfor
 ---
 
 ### Fast Direction-of-Arrival Estimation in Coprime Arrays
-https://ieeexplore.ieee.org/abstract/document/8557304
+_Link:_ https://ieeexplore.ieee.org/abstract/document/8557304
 
 Investigated the application of the Fast Iterative Interpolated Beamformer (FIIB) algorithm to antenna sensing arrays utilising a coprime configuration.
 - Designed simulations synthesising a coprime array configuration with the FIIB algorithm.
